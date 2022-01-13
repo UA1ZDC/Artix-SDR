@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=Clocking.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=DB.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=DDR2.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=Ethernet.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=FPGA&CODECS.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=FPGA_Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=FSP+.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=JTAG.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=MGT_PWR.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=Power_Supply.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Clocking.SchDoc|FileName=RAM&GPIO.SchDoc|SheetNumber=9
